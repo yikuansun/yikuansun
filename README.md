@@ -1,4 +1,4 @@
-# yikuansun
+# yikuan.sun
 
 Founder of [DartFling](https://dartfling.com)
 
