@@ -1,8 +1,8 @@
 # yikuan.sun
 
-Founder of [DartFling](https://dartfling.com)
+Currently working at ForMi
 
-Founder of [Lunal Graphics](https://dartfling.com/u#lunalgraphics)
+Founder of [Lunal Graphics](https://lunalgraphics.github.io)
 
 [Visit my website](https://yikuansun.github.io)
 
