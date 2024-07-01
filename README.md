@@ -1,6 +1,6 @@
 # yikuan.sun
 
-Founder of [Lunal Graphics](https://lunalgraphics.github.io)
+Founder of [Lunal Graphics](https://lunalgraphics.com)
 
 [Visit my website](https://yikuansun.github.io)
 
